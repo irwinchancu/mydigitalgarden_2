@@ -5,6 +5,9 @@
 Welcome to CTC Digital Garden
 https://ctcdigitalgarden.netlify.app/
 
+
+[[01 MOC 目錄/000 每日我的習慣 Daily Routine\|000 每日我的習慣 Daily Routine]]
+
 Intention:
 Values: 健康, 付出, 關懷
 Priorities: 建立社群之年, 付出之年
@@ -40,6 +43,7 @@ Intentions: 整理文章, 輸出, 食得健康, 做運動, 每日講野
 
 
 6. 好習慣
+[[15 Pending/Cleaning_Desktop\|Cleaning_Desktop]]
 
 
 
@@ -50,4 +54,7 @@ Intentions: 整理文章, 輸出, 食得健康, 做運動, 每日講野
 
 [[00 RAG/20260107/市井 罪人 被罪者 馮偉文/PN_20260223_Sinned_People_被罪者 馮偉文_Pray_for_our_enemies_We_are_brothers_Sisters\|PN_20260223_Sinned_People_被罪者 馮偉文_Pray_for_our_enemies_We_are_brothers_Sisters]]
 
+
+9. 時事觀點集結
+[[15 Pending/20260223_Banning Social Media_in Australia_Thoughts\|20260223_Banning Social Media_in Australia_Thoughts]]
 
