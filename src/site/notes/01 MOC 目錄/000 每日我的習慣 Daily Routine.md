@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-moc/000-daily-routine/"}
+{"dg-publish":true,"permalink":"/01-moc/000-daily-routine/","tags":["#放長假"]}
 ---
 
 [[15 Pending/Digital Garden Notes Homepage\|Digital Garden Notes Homepage]]
@@ -26,6 +26,7 @@ Obsidian 打今日要做得更好的地方
 早會, 和同事好好講早晨
 
 # 上午
+工作
 寫作任務
 Change Task
 飲水, 食益生菌, 與同事傾計
@@ -35,6 +36,7 @@ Change Task
 帶話題去傾 
 
 # 下午
+工作
 飲水
 檢查一次電郵
 執好枱面
@@ -59,7 +61,10 @@ Check 明天上課要準備的人, 難點 Plan B, 教材
 # 每月11: Taobao
 # 2月7, 5月7, 7月7, 11月7 : 博客來買書
  
-
+#放長假
+# 放長假
+捐血 （一個月內不可外遊）
+去誠品
 
 用右手刷牙
 用少少冷水
