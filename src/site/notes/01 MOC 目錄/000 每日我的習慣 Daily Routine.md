@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-moc/000-daily-routine/","tags":["#放長假"]}
+{"dg-publish":true,"permalink":"/01-moc/000-daily-routine/"}
 ---
 
 [[15 Pending/Digital Garden Notes Homepage\|Digital Garden Notes Homepage]]
