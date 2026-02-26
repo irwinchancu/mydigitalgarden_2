@@ -1,8 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/01-moc/000-daily-routine/"}
+{"dg-publish":true,"permalink":"/01-moc/000-daily-routine/","tags":["#放長假"]}
 ---
 
 [[15 Pending/Digital Garden Notes Homepage\|Digital Garden Notes Homepage]]
+
+[[03 Daily Reflection/00 反思問題 2026 Feb Version\|00 反思問題 2026 Feb Version]]
+
+[[15 Pending/CTC_10X目標\|CTC_10X目標]]
 
 # 起床
 
@@ -27,7 +31,7 @@ Obsidian 打今日要做得更好的地方
 
 # 上午
 工作
-寫作任務
+寫一張咭給學生
 Change Task
 飲水, 食益生菌, 與同事傾計
 頭4堂少睇電話

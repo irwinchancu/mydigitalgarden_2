@@ -5,6 +5,9 @@
 [[15 Pending/Digital Garden Notes Homepage\|Digital Garden Notes Homepage]]
 
 
+[[00_Practical PKM Starter Vault/Practical PKM Starter Vault/Resources/Personal Retreat Files/My Core Values\|My Core Values]]
+
+
 網頁
 
 0. Blog [https://vocus.cc/salon/66692745fd8978000193c35d](https://vocus.cc/salon/66692745fd8978000193c35d) 我的Blog (Onion 神學)
